@@ -27,4 +27,3 @@ Les fichiers encart-constructor-option.html du dossier mosaicFilter sont des var
 
 Les filtres sont créés à partir des id du template, mos-titre correspond à la colonne titre, mos-sous_cat à la sous-catégorie, etc. Le nom des filtre est modifiable à l'aide de l'attribut data-name.  
 
-# mosaiques-filtres
