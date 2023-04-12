@@ -19,6 +19,8 @@ Une fois le tableau complété, aller sur l'onglet "automatisation" et cliquer s
 
 Une entrée peut avoir plusieur catégories, elles doivent être séparées par des virgules (,).
 
+Le fichier est à dupliqué pour chaque mosaïque.
+
 ## 3 Utilisation des templates
 
 Le contenu du fichier encart-filter.html du dossier mosaicFilter est à placer dans une encart Syracuse avant l'encart des vignettes. Il n'y a pas de réglage à effectuer, le choix des filtres se fait dans l'encart de la mosaïque.
